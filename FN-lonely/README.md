@@ -1,5 +1,5 @@
 # FN-lonely
-This is a nopixel based hug script
+This is a nopixel based hug script where you hug the npc and get stress relieved
 
 # Dependicies
 [qb-core] : https://github.com/qbcore-framework/qb-core
